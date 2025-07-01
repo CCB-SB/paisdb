@@ -1,0 +1,369 @@
+Batch;Extraction Abstract;Used Name;Remark
+5;0;Anti-NMDAR Encephalitis;
+5;1;Japanese encephalitis virus;
+5;2;human respiratory syncytial virus;
+5;3;None;
+5;4;None;
+5;5;None;
+5;6;None;
+5;7;polyomavirus;
+5;8;None;
+5;9;None;
+5;10;human respiratory syncytial virus;
+5;11;Human herpesvirus-7;
+5;12;Human herpesvirus type 7 (HHV-7);
+5;13;human herpesvirus 7;
+5;14;Human herpesvirus-7;
+5;15;severe acute respiratory syndrome coronavirus 2;
+5;16;herpes simplex virus-1;
+5;17;herpes simplex virus type 1 (HSV-1);
+5;18;herpes simplex;Bacteria only named indirectly
+5;19;Human herpesvirus type 7 (HHV-7);
+5;20;Herpes simplex virus-1;
+5;21;herpes simplex virus 1;
+5;22;herpes simplex virus (HSV) type 1;
+5;23;herpes simplex virus type 1;
+5;24;herpes simplex virus-1;Type 1 is in abstract, Type 2 in Querie
+5;25;herpes simplex virus;
+5;26;herpes simplex virus type 1 (HSV-1);Type 1 is in abstract, Type 2 in Querie
+5;27;herpes simplex virus;
+5;28;Herpes simplex virus;
+5;29;herpes simplex virus (HSV);
+5;30;neonatal herpes simplex virus;
+5;31;herpes simplex;Bacteria only named indirectly
+5;32;herpes simplex virus;
+5;33;herpes simplex virus type 1;Human herpesvirus type 7 (HHV-7)
+5;34;None;Unable to find any Bacteria
+5;35;herpes simplex virus (HSV);
+5;36;herpes simplex virus (HSV);
+5;37;Herpes Simplex Virus;
+5;38;Japanese encephalitis virus (JEV);
+5;39;herpes simplex virus;Part of disease name
+5;40;Herpes simplex virus-1;
+5;41;herpes simplex virus 1;
+5;42;Herpes simplex virus;Part of disease name
+5;43;herpes simplex virus (HSV);
+5;44;Herpes simplex virus;Part of disease name
+5;45;herpes simplex virus (HSV) type 1;
+5;46;herpes simplex virus (HSV);
+5;47;herpes simplex virus type 1;
+5;48;herpes simplex virus (HSV);
+5;49;herpes simplex virus;
+5;50;;not mentioned
+5;51;None;
+5;52;None;
+5;53;Streptococcus pneumoniae;
+5;54;group B Streptococcus;
+5;55;toxoplasma gondii;
+5;56;toxoplasma gondii;
+5;57;Treponema pallidum;
+5;58;Treponema pallidum;
+5;59;human herpesvirus;
+5;60;Verrucomicrobiota;
+5;61;Epstein-Barr virus (EBV);
+5;62;Epstein-Barr virus;
+5;63;Epstein-Barr virus;
+5;64;Epstein-Barr virus (EBV);
+5;65;;Not mentioned
+5;66;Epstein-Barr virus (EBV);
+5;67;Epstein-Barr virus;
+5;68;bacteria;Less specific variant?
+5;69;None;
+5;70;Human herpesvirus 6;
+5;71;Human Papillomavirus;
+5;72;human papillomavirus (HPV);
+5;73;;not mentioned
+5;74;Epstein-Barr Virus (EBV);
+5;75;Moraxella catarrhalis;Less specific variant?
+5;76;Moraxella catarrhalis;
+5;77;Mycoplasma pneumoniae;
+5;78;Human Papillomavirus (HPV);Less specific variant?
+5;79;Human Papillomavirus (HPV);
+5;80;Staphylococcus aureus;Less specific variant?
+5;81;Staphylococcus aureus;
+5;82;stenosis;
+5;83;Streptococcus pneumonia;
+5;84;Human herpesvirus 6 (HHV-6);Less specific variant?
+5;85;Human Papillomavirus (HPV);Less specific variant?
+5;86;Epstein-Barr Virus (EBV);
+5;87;Adenovirus;
+5;88;Arcanobacterium haemolyticum;
+5;89;Arcanobacterium haemolyticum;Part of disease name
+5;90;Arcanobacterium haemolyticum;
+5;91;Arcanobacterium haemolyticum;
+5;92;bacilli;
+5;93;bacillus;
+5;94;Arcanobacterium haemolyticum;Less specific variant?
+5;95;Junin virus (JUNV);not in query
+5;96;None;
+5;97;None;
+5;98;None;
+5;99;None;
+5;100;None;
+5;101;None;
+5;102;None;
+5;103;None;
+5;104;None;
+5;105;None;
+5;106;None;
+5;107;None;
+5;108;None;
+5;109;None;
+5;110;None;
+5;111;None;
+5;112;None;
+5;113;None;
+5;114;None;
+5;115;None;
+5;116;None;
+5;117;None;
+5;118;None;
+5;119;None;
+5;120;None;
+5;121;None;
+5;122;None;
+5;123;None;
+5;124;None;
+5;125;None;
+5;126;None;
+5;127;None;
+5;128;None;
+5;129;None;
+5;130;None;
+5;131;None;
+5;132;None;
+5;133;None;
+5;134;None;
+5;135;None;
+5;136;None;
+5;137;None;
+5;138;None;
+5;139;None;
+5;140;None;
+5;141;None;
+5;142;None;
+5;143;None;
+5;144;None;
+5;145;None;
+5;146;None;
+5;147;None;
+5;148;None;
+5;149;None;
+5;150;None;
+5;151;None;
+5;152;None;
+5;153;None;
+5;154;None;
+5;155;None;
+5;156;None;
+5;157;None;
+5;158;None;
+5;159;None;
+5;160;None;
+5;161;None;
+5;162;None;
+5;163;None;
+5;164;None;
+5;165;None;
+5;166;None;
+5;167;None;
+5;168;None;
+5;169;None;
+5;170;None;
+5;171;None;
+5;171;Haemophilus influenzae;Less specific variant?
+5;172;Haemophilus influenzae;
+5;173;hepatitis B virus;
+5;174;human papillomavirus;
+8;0;None;
+8;1;Bacillus cereus;
+8;2;Lactobacillus delbrueckii subsp lactis CIDCA 133;
+8;3;Lactobacillus delbrueckii subsp lactis CIDCA 133;
+8;4;None;
+8;5;Pseudomonas aeruginosa;
+8;6;Pseudomonas aeruginosa;
+8;7;Staphylococcus;
+8;8;Staphylococcus aureus;Less specific variant?
+8;9;Staphylococcus;
+8;10;Staphylococcus aureus;
+8;11;Bacillus cereus;Less specific variant?
+8;12;Bacillus cereus;Less specific variant?
+8;13;Bacillus cereus;Less specific variant?
+8;14;Bacillus cereus;Less specific variant?
+8;15;bacteria;
+8;16;Clostridium;
+8;17;None;
+8;18;Pseudomonadales;
+8;19;Staphylococcus;
+8;20;None;
+8;21;;not mentioned
+8;22;Streptococcus;Less specific variant?
+8;23;Bacteria;
+8;24;Campylobacter concisus;Less specific variant?
+8;25;;not mentioned
+8;26;bacteria;
+8;27;Campylobacter;
+8;28;Campylobacter concisus;Less specific variant?
+8;29;Campylobacter concisus;
+8;30;Candida;
+8;31;candida;
+8;32;candida;
+8;33;Candida;
+8;34;Candida;
+8;35;Candida;
+8;36;Clostridium difficile;
+8;37;Clostridium difficile;
+8;38;Clostridium difficile;Less specific variant?
+8;39;Clostridium difficile;Less specific variant?
+8;40;Cytomegalovirus;
+8;41;Cytomegalovirus;
+8;42;cytomegalovirus ;(CMV)
+8;43;dialysis;
+8;44;Digenea;
+8;45;Giardia lamblia;
+8;46;Haemophilus;
+8;47;Helicobacter pylori;Less specific variant?
+8;48;Helicobacter pylori;Less specific variant?
+8;49;Helicobacter pylori;Less specific variant?
+8;50;Helicobacter pylori;Less specific variant?
+8;51;Helicobacter pylori;Less specific variant?
+8;52;Helicobacter pylori;Less specific variant?
+8;53;Helicobacter pylori;Less specific variant?
+8;54;Helicobacter pylori;Less specific variant?
+8;55;Helicobacter pylori;Less specific variant?
+8;56;Helicobacter pylori;Less specific variant?
+8;57;Helicobacter pylori;Less specific variant?
+8;58;Helicobacter pylori;Less specific variant?
+8;59;Helicobacter pylori;Less specific variant?
+8;60;Helicobacter pylori;Less specific variant?
+8;61;Helicobacter pylori;Less specific variant?
+8;62;Helicobacter pylori;Less specific variant?
+8;63;Helicobacter pylori;Less specific variant?
+8;64;Helicobacter pylori;Less specific variant?
+8;65;Helicobacter pylori;Less specific variant?
+8;66;Helicobacter pylori;Less specific variant?
+8;67;Helicobacter pylori;Less specific variant?
+8;68;Helicobacter pylori;Less specific variant?
+8;69;Helicobacter pylori;Less specific variant?
+8;70;Helicobacter;
+8;71;Helicobacter pylori;Less specific variant?
+8;72;Helicobacter pylori;Less specific variant?
+8;73;Helicobacter pylori;Less specific variant?
+8;74;Helicobacter pylori;Less specific variant?
+8;75;Helicobacter pylorus;Less specific variant?
+8;76;Helicobacter pylori;Less specific variant?
+8;77;Helico-bacter pylori;Less specific variant?
+8;78;Helicobacter pylori;Less specific variant?
+8;79;Helicobacter pylori;Less specific variant?
+8;80;Helicobacter pylori;Less specific variant?
+8;81;Helicobacter pylori;Less specific variant?
+8;82;Helicobacter pylori;Less specific variant?
+8;83;Helicobacter pylori;Less specific variant?
+8;84;Helicobacter pylori;
+8;85;Helicobacter pylori;
+8;86;Helicobacter pylori;
+8;87;Helicobacter pylori;
+8;88;Helicobacter pylori;
+8;89;Helicobacter pylori;
+8;90;Helicobacter pylori;
+8;91;Helicobacter pylori;Part of disease name
+8;92;Helicobacter pylori;
+8;93;Helicobacter pylori;
+8;94;Helicobacter pylori;Part of disease name
+8;95;Helicobacter pylori;
+8;96;Helicobacter pylori;
+8;97;Helicobacter pylori;
+8;98;Helicobacter pylori;
+8;99;Helicobacter pylori;
+8;100;Helicobacter pylori;
+8;101;Helicobacter pylori;
+8;102;Helicobacter pylori;abstract to long
+8;103;Helicobacter pylori;
+8;104;Helicobacter pylori;
+8;105;Helicobacter pylori;
+8;106;Helicobacter pylori;Part of disease name
+8;107;Helicobacter pylori;
+8;108;Helicobacter pylori;
+8;109;Helicobacter pylori;
+8;110;Helicobacter pylori;
+8;111;Helicobacter pylori;
+8;112;Helico-bacter pylori;
+8;113;Helicobacter pylori;
+8;114;Helicobacter pylori;
+8;115;Helicobacter pylori;
+8;116;Helicobacter pylori;
+8;117;Helicobacter pylori;
+8;118;Helicobacter pylori;
+8;119;Helicobacter pylori;Part of disease name
+8;120;human immunodeficiency virus;
+8;121;human immunodeficiency virus;
+8;122;human immunodeficiency virus;
+8;123;Human papillomavirus;
+8;124;human papillomavirus;
+8;125;human papilloma virus;
+8;126;human papillomavirus;
+8;127;human papillomavirus;
+8;128;human papillomavirus;
+8;129;lamina;
+8;130;lamina;
+8;131;lamina;
+8;132;lamina;
+8;133;lamina;
+8;134;lamina;
+8;135;lamina;
+8;136;lamina;
+8;137;lamina;
+8;138;lamina;
+8;139;lamina;
+8;140;lamina;
+8;141;lamina;
+8;142;Epstein-Barr virus (EBV);
+8;143;Neisseria;
+8;144;Human Papillomavirus;Less specific variant?
+8;145;human papillomavirus;Less specific variant?
+8;146;human papillomavirus;Less specific variant?
+8;147;human papillomavirus;Less specific variant?
+8;148;human papillomavirus;Less specific variant?
+8;149;Prevotella;
+8;150;Sarcina ventriculi;Less specific variant?
+8;151;Sarcina ventriculi;
+8;152;Herpes simplex virus;
+8;153;herpes simplex virus;
+8;154;Herpes simplex virus;
+8;155;herpes simplex virus;
+8;156;stenosis;
+8;157;;not mentioned
+8;158;stenosis;
+8;159;stenosis;
+8;160;stenosis;
+8;161;stenosis;
+8;162;stenosis;
+8;163;;not mentioned
+8;164;stenosis;
+8;165;stenosis;
+8;166;;not mentioned
+8;167;stenosis;
+8;168;;not mentioned
+8;169;stenosis;
+8;170;stenosis;
+8;171;stenosis;
+8;172;stenosis;
+8;173;stenosis;
+8;174;stenosis;
+8;175;stenosis;
+8;176;stenosis;
+8;177;stenosis;
+8;178;stenosis;
+8;179;Streptococcus;
+8;180;Streptococcus;
+8;181;trematodes;
+8;182;Veillonella;
+8;183;viruses;
+8;184;hepatitis C virus;Less specific variant?
+8;185;viruses;
+8;186;Helicobacter pylori;Less specific variant?
+8;187;Epstein-Barr virus;
+8;188;Epstein-Barr virus;
+8;189;Baylisascaris procyonis;
+8;190;Baylisascaris procyonis;
+8;191;Baylisascaris procyonis;

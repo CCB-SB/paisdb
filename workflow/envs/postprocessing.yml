@@ -1,0 +1,19 @@
+name: postprocessing
+channels:
+    - conda-forge
+    - bioconda
+    - r
+    - defaults
+    - pytorch
+dependencies:
+    - conda-forge::transformers
+    - conda-forge::datasets
+    - pytorch==2.5.1
+    - wheel=0.45.1
+    - pip:
+        - accelerate==1.4.0
+        - bioc
+        - bitsandbytes==0.45.3
+        - flash-attn==2.7.4.post1
+        - tokenizers==0.21.1
+        - torch

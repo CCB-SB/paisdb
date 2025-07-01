@@ -1,0 +1,23 @@
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  # R
+  - conda-forge::r-base==4.3.2
+  - conda-forge::r-tidyverse==2.0.0
+  - conda-forge::r-argparse==2.2.2
+  - conda-forge::r-gtsummary==1.7.2
+  - conda-forge::r-cowplot==1.1.3
+  - conda-forge::r-ggpubr==0.6.0
+  - conda-forge::r-ggprism==1.0.4
+  - conda-forge::r-hmisc==5.1_1
+  - bioconda::bioconductor-microbiomemarker==1.8.0
+  - bioconda::bioconductor-phyloseq==1.46.0
+  - bioconda::bioconductor-maaslin2==1.16.0
+  - bioconda::bioconductor-complexheatmap==2.18.0
+  - conda-forge::r-polychrome==1.5.1
+  - bioconda::bioconductor-rcy3==2.22.1
+  - conda-forge::r-janitor==2.2.0
+  - conda-forge::r-ggh4x==0.2.6

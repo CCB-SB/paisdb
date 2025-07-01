@@ -1,0 +1,56 @@
+##################################################
+# Config
+##################################################
+configfile: "../config/config.yml"
+
+##################################################
+# Python modules
+##################################################
+import sys
+from os.path import join, basename, dirname, exists, splitext , abspath
+
+##################################################
+# Some settings
+##################################################
+OUTDIR = config['outdir']
+
+##################################################
+# Rule includes
+##################################################
+include: "rules/data_collection.smk"
+include: "rules/filtering.smk"
+# include: "rules/relation_extraction_small.smk"
+include: "rules/relation_extraction.smk"
+include: "rules/postprocessing.smk"
+
+
+##################################################
+# ALL rule
+##################################################
+batches = range(0,215) # Total
+
+rule all:
+    input:
+        rules.abstracts_processing.output,
+        expand(join(OUTDIR, "data_collection","abstracts",
+            f"pubmed_{config['timestamp']}", "batch_{batch}.pickle"),
+            batch=batches),
+        expand(join(OUTDIR, "data_collection","abstracts",
+            f"extraction_{config['timestamp']}", "batch_{batch}.csv"),
+            batch=batches),
+        expand(join(OUTDIR, "filtering",f"abstracts_{config['timestamp']}",
+            "batch_{batch}.csv"), batch=batches),
+        expand(join(OUTDIR, "relation_extraction", "mixtral",
+                            f"mixtral_{config['timestamp']}",
+                            "mixtral_small_batch_{batch}.csv"),
+                            batch=batches),
+        #expand(join(OUTDIR, "postprocessing", "retrieve_articles",
+        #                    f"retrieve_articles_{config['timestamp']}",
+        #                    "batch_{batch}.csv"),
+        #                    batch=batches),
+        #expand(join(OUTDIR, "postprocessing", "text_mining",
+        #                    f"LLM_mining_{config['timestamp']}",
+        #                    "batch_{batch}.csv"),
+        #                    batch=batches)
+        
+        # rules.data_tables.output,

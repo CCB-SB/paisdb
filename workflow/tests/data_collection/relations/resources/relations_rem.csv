@@ -1,0 +1,193 @@
+,disease,pathogen,pathogen_type,source
+44,Acne,Pseudomonadota,asso,disbiome
+290,Alcoholic hepatitis,Bacteroidota,asso,disbiome
+328,Alcoholism,Actinomycetota,asso,disbiome
+335,Alcoholism,Bacteroidota,asso,disbiome
+388,Alcoholism,Pseudomonadota,asso,disbiome
+421,Alopecia areata,Actinomycetota,asso,disbiome
+422,Alopecia areata,Bacillota,asso,disbiome
+423,Alopecia areata,Bacteroidota,asso,disbiome
+426,Alopecia areata,Pseudomonadota,asso,disbiome
+451,Alzheimer's Disease,Bacteroidota,asso,disbiome
+477,Alzheimer's Disease,Pseudomonadota,asso,disbiome
+711,Asthma,Gammaproteobacteria,asso,disbiome
+748,Asthma,Pseudomonadota,asso,disbiome
+851,Atopic eczema,Pseudomonadota,asso,disbiome
+868,Atrial fibrillation,Bacillota,asso,disbiome
+870,Atrial fibrillation,Bacteroidota,asso,disbiome
+1038,Autism spectrum disorders,Acidobacteriota,asso,disbiome
+1050,Autism spectrum disorders,Bacteroidota,asso,disbiome
+1172,Autoimmune polyendocrine syndrome type 1,Bacteroidota,asso,disbiome
+1243,Bacterial vaginosis,Actinomycetota,asso,wikipedia
+1323,Barrett's oesophagus,Bacillota,asso,disbiome
+1347,Behcet's Disease,Bacteroidota,asso,disbiome
+1420,Bipolar disorder,Bacteroidota,asso,disbiome
+1432,Bipolar disorder,Pseudomonadota,asso,disbiome
+1493,Blepharitis,Streptophyta,asso,disbiome
+1495,Botulism,Bacillota,asso,disbiome
+1498,Botulism,Pseudomonadota,asso,disbiome
+1508,Breast cancer,Bacteroidota,asso,disbiome
+1557,Bullous pemphigoid,Actinomycetota,asso,disbiome
+1558,Bullous pemphigoid,Bacillota,asso,disbiome
+1560,Bullous pemphigoid,Pseudomonadota,asso,disbiome
+1568,COPD Exacerbation,Bacillota,asso,disbiome
+1580,COPD Exacerbation,Pseudomonadota,asso,disbiome
+1591,Cancer cachexia,Pseudomonadota,asso,disbiome
+1606,Cardiovascular disease,Actinomycetota,asso,disbiome
+1607,Cardiovascular disease,Pseudomonadota,asso,disbiome
+1622,Caries,Bacteroidota,asso,disbiome
+1760,"Celiac Disease, Coaliac disease",Bacillota,asso,disbiome
+1762,"Celiac Disease, Coaliac disease",Bacteroidota,asso,disbiome
+1776,"Celiac Disease, Coaliac disease",Fusobacteriota,asso,disbiome
+1953,Chronic Obstructive Pulmonary Disease,Bacteroidota,asso,disbiome
+2028,Chronic Rhinosinusitis,Bacteroidota,asso,disbiome
+2147,Chronic kidney disease,Deltaproteobacteria,asso,disbiome
+2225,Chronic mucocutaneous candidiasis,Fusobacteriota,asso,disbiome
+2245,Chronic prostatitis / Chronic pelvic pain syndrome,Alphaproteobacteria,asso,disbiome
+2253,Chronic prostatitis / Chronic pelvic pain syndrome,Verrucomicrobiota,asso,disbiome
+2275,Cirrhosis,Actinomycetota,asso,disbiome
+2322,Cirrhosis,Fusobacteriota,asso,disbiome
+2348,Cirrhosis,Mycoplasmatota,asso,disbiome
+2367,Cirrhosis,Pseudomonadota,asso,disbiome
+2389,Cirrhosis,Synergistota,asso,disbiome
+2424,Clonorchis sinensis infection,Synergistota,asso,disbiome
+2426,Clostridium difficile associated disease,Actinomycetota,asso,disbiome
+2429,Clostridium difficile associated disease,Bacillota,asso,disbiome
+2430,Clostridium difficile associated disease,Bacteroidota,asso,disbiome
+2434,Clostridium difficile associated disease,Eurotiomycetes,asso,disbiome
+2441,Clostridium difficile associated disease,Pseudomonadota,asso,disbiome
+2474,Clostridium difficile infection,Eukaryota,asso,disbiome
+2523,Colon adenomas,Actinomycetota,asso,disbiome
+2525,Colon adenomas,Bacillota,asso,disbiome
+2527,Colon adenomas,Bacteroidota,asso,disbiome
+2530,Colon adenomas,Chloroflexia,asso,disbiome
+2547,Colon adenomas,Mycoplasmatota,asso,disbiome
+2550,Colon adenomas,Pseudomonadota,asso,disbiome
+2812,Coronary Heart Disease,Bacillota,asso,disbiome
+2813,Coronary Heart Disease,Bacteroidota,asso,disbiome
+2818,Coronary Heart Disease,Fusobacteriota,asso,disbiome
+2824,Coronary Heart Disease,Pseudomonadota,asso,disbiome
+2835,Coronary artery disease,Bacteroidota,asso,disbiome
+2956,Crohn's Disease,Bacillota,asso,disbiome
+2965,Crohn's Disease,Bacteroidota,asso,disbiome
+3044,Crohn's Disease,Fusobacteriota,asso,disbiome
+3124,Crohn's Disease,Pseudomonadota,asso,disbiome
+3196,Cystic Fibrosis,Actinomycetota,asso,disbiome
+3207,Cystic Fibrosis,Bacillota,asso,disbiome
+3215,Cystic Fibrosis,Bacteroidota,asso,disbiome
+3299,Cystic Fibrosis,Pseudomonadota,asso,disbiome
+3386,Desmodesmus infection,Chlorophyta,cause,wikipedia
+3419,Disease-free ,Actinomycetota,asso,disbiome
+3792,Generalized anxiety disorder,Bacteroidota,asso,disbiome
+3832,Gestational diabetes,Armatimonadota,asso,disbiome
+3838,Gestational diabetes,Cyanobacteriota,asso,disbiome
+3993,HIV infection,Ascomycota,asso,disbiome
+3994,HIV infection,Bacillota,asso,disbiome
+3996,HIV infection,Bacteroidota,asso,disbiome
+4040,HIV infection,Gammaproteobacteria,asso,disbiome
+4088,HIV infection,Pseudomonadota,asso,disbiome
+4115,HIV infection,Verrucomicrobiota,asso,disbiome
+4117,HIV-infected pneumonia,Actinomycetota,asso,disbiome
+4118,HIV-infected pneumonia,Bacillota,asso,disbiome
+4119,HIV-infected pneumonia,Bacteroidota,asso,disbiome
+4120,HIV-infected pneumonia,Chloroflexia,asso,disbiome
+4121,HIV-infected pneumonia,Cyanobacteriota,asso,disbiome
+4231,Helicobacter pylori infection,Actinomycetota,asso,disbiome
+4236,Helicobacter pylori infection,Bacillota,asso,disbiome
+4237,Helicobacter pylori infection,Bacteroidota,asso,disbiome
+4244,Helicobacter pylori infection,Fusobacteriota,asso,disbiome
+4263,Helicobacter pylori infection,Pseudomonadota,asso,disbiome
+4317,Hepatitis B,Actinomycetota,asso,disbiome
+4356,Hepatitis B associated liver failure,Actinomycetota,asso,disbiome
+4357,Hepatitis B associated liver failure,Alphaproteobacteria,asso,disbiome
+4398,Hepatocellular cancer,Actinomycetota,asso,disbiome
+4408,Hepatocellular cancer,Bacteroidota,asso,disbiome
+4422,Hepatocellular cancer,Epsilonproteobacteria,asso,disbiome
+4423,Hepatocellular cancer,Erysipelotrichia,asso,disbiome
+4428,Hepatocellular cancer,Gammaproteobacteria,asso,disbiome
+4452,Hepatocellular cancer,Pseudomonadota,asso,disbiome
+4487,Hirschsprung-associated enterocolitis,Bacillota,asso,disbiome
+4488,Hirschsprung-associated enterocolitis,Bacteroidota,asso,disbiome
+4489,Hirschsprung-associated enterocolitis,Pseudomonadota,asso,disbiome
+4490,Hirschsprung-associated enterocolitis,Verrucomicrobiota,asso,disbiome
+4498,Human end-stage renal disease,Actinomycetota,asso,disbiome
+4556,Hyper IgE syndrome,Fusobacteriota,asso,disbiome
+4605,Hypertension,Synergistota,asso,disbiome
+4687,Idiopathic infertility,Fusobacteriota,asso,disbiome
+4788,Inflammatory Bowel Disease,Gammaproteobacteria,asso,disbiome
+4811,Influenza A,Acidobacteriota,asso,disbiome
+4867,Intestinal metaplasia,Cyanobacteriota,asso,disbiome
+4969,Irritable Bowel Syndrome,Erysipelotrichia,asso,disbiome
+5060,Juvenile idiopathic arthritis,Bacillota,asso,disbiome
+5061,Juvenile idiopathic arthritis,Bacteroidota,asso,disbiome
+5246,Liver fibrosis,Actinomycetota,asso,disbiome
+5348,Major depressive disorder,Bacteroidota,asso,disbiome
+5480,Multiple Sclerosis,Actinomycetota,asso,disbiome
+5489,Multiple Sclerosis,Bacillota,asso,disbiome
+5517,Multiple Sclerosis,Fusobacteriota,asso,disbiome
+5538,Multiple Sclerosis,Pseudomonadota,asso,disbiome
+5610,Myasthenia gravis,Verrucomicrobiota,asso,disbiome
+5611,Mycetoma,Actinomycetota,cause,wikipedia
+5628,Necrotizing enterocolitis,Gammaproteobacteria,asso,disbiome
+5631,Necrotizing enterocolitis,Negativicutes,asso,disbiome
+5681,Non alcoholic steatohepatitis,Bacteroidota,asso,disbiome
+5720,Non-alcoholic fatty liver disease,Bacteroidota,asso,disbiome
+5787,Nongonococcal urethritis,Alphaproteobacteria,asso,disbiome
+5802,Obesity,Actinomycetota,asso,disbiome
+5831,Obesity,Bacteroidota,asso,disbiome
+5949,Obesity,Pseudomonadota,asso,disbiome
+5990,Obstructive sleep apnea-hypopnea syndrome,Acidobacteriota,asso,disbiome
+5993,Obstructive sleep apnea-hypopnea syndrome,Bacteria incertae sedis,asso,disbiome
+6057,Oral cancer,Actinomycetota,asso,disbiome
+6061,Oral cancer,Bacillota,asso,disbiome
+6131,Oral lichen planus,Ascomycota,asso,disbiome
+6153,Oral lichen planus,Pseudomonadota,asso,disbiome
+6255,Otitis Media,Bacillota,asso,disbiome
+6276,Otitis Media,Pseudomonadota,asso,disbiome
+6283,Otitis Media,unidentified human coronavirus,asso,disbiome
+6308,Palmoplantar pustulosis,Pseudomonadota,asso,disbiome
+6491,Parkinson's Disease,Erysipelotrichia,asso,disbiome
+6575,Parkinson's Disease,Pseudomonadota,asso,disbiome
+6604,Parkinson's Disease,Verrucomicrobiota,asso,disbiome
+6755,Polycystic Ovary Syndrome,Actinomycetota,asso,disbiome
+6763,Polycystic Ovary Syndrome,Fusobacteriota,asso,disbiome
+6767,Polycystic Ovary Syndrome,Mycoplasmatota,asso,disbiome
+6832,Preeclamsia,Bacillota,asso,disbiome
+6834,Preeclamsia,Bacteroidota,asso,disbiome
+6854,Preeclamsia,Pseudomonadota,asso,disbiome
+6941,Primary biliary cholangitis,Bacteroidota,asso,disbiome
+6970,Primary biliary cirrhosis,Acidobacteriota,asso,disbiome
+7134,Psoriasis,Bacteroidota,asso,disbiome
+7153,Psoriasis,Cyanobacteriota,asso,disbiome
+7261,Pulmonary tubercolosis,Actinomycetota,asso,disbiome
+7266,Pulmonary tubercolosis,Bacteroidota,asso,disbiome
+7300,Pulmonary tubercolosis,Pseudomonadota,asso,disbiome
+7429,Rheumatoid Arthritis,Epsilonproteobacteria,asso,disbiome
+7511,Sarcopenia,Bacillota,asso,disbiome
+7523,Sarcopenia,Pseudomonadota,asso,disbiome
+7539,Schizophrenia,Bacteria,asso,disbiome
+7626,Schizophrenia,Synergistota,asso,disbiome
+7658,Sepsis,Fusobacteriota,asso,disbiome
+7659,Sepsis,Gammaproteobacteria,asso,disbiome
+7696,Short Bowel Syndrome,Bacteroidota,asso,disbiome
+8036,Systemic lupus erythematosus,Acidobacteriota,asso,disbiome
+8048,Systemic lupus erythematosus,Bacteroidota,asso,disbiome
+8080,Systemic lupus erythematosus,Mycoplasmatota,asso,disbiome
+8109,Systemic sclerosis,Actinomycetota,asso,disbiome
+8251,Transient Ischemic Attack,Deltaproteobacteria,asso,disbiome
+8263,Transient Ischemic Attack,Pseudomonadota,asso,disbiome
+8267,Transient Ischemic Attack,Synergistota,asso,disbiome
+8379,Type 2 Diabetes,Actinomycetota,asso,disbiome
+8514,Type 2 Diabetes,Pseudomonadota,asso,disbiome
+8545,Type 2 Diabetes,Streptophyta,asso,disbiome
+8578,Ulcerative Colitis,Bacteroidota,asso,disbiome
+8628,Ulcerative Colitis,Fusobacteriota,asso,disbiome
+8687,Ulcerative Colitis,Spirochaetota,asso,disbiome
+8696,Ulcerative Colitis,Synergistota,asso,disbiome
+8712,Undernourishment,Bacteroidota,asso,disbiome
+8834,Viral meningitis,unidentified influenza virus,cause,wikipedia
+8966,periodontitis,Bacteroidota,asso,disbiome
+8980,periodontitis,Chloroflexia,asso,disbiome
+9068,periodontitis,Synergistota,asso,disbiome
+9097,severe skin and soft tissue infection,Pseudomonadota,asso,disbiome
+9112,viral infectious disease,Viruses,cause,DO

@@ -1,0 +1,42 @@
+{
+  "Messages" :[
+    {
+      "name": "Cohort",
+      "user": "Given the following Title and Text of a scientific Paper, extract the Cohort size (i.e., the number of participants, individuals or animals partaking in the Experiment or Study of the Paper). Return the answer in the exact format: {Cohort: Number or None}. Use None if the Paper dies not contain a cohort. \n Title: <title> \n Text: <text> \n You are required to find the cohort based solely on the given title and abstract. Do not use any external knowledge or assumptions beyond the text provided. \n Your decision must be strictly based on the information within the title and abstract. Respond only in the dictionary format with no explanation. Answer:",
+      "type": "int",
+      "section": "METHODS"
+    },
+    {
+      "name": "Methode",
+      "user": "Given the following Title, text and Pathogen of a scientific paper, extract the Methode used to identify the Pathogen. Return the answer in the exact format: {Methode: Name or None}. Use None if the Paper does not mention a Method for identifieng the Pathogen. \n Title: <title> \n Text: <text> \n Pathogen: <pathogen> \n You are required to find the Methode based solely on the given title and abstract. Do not use any external knowledge or assumptions beyond the text provided. \n Your decision must be strictly based on the information within the title and abstract. Respond only in the dictionary format with no explanation. Answer:",
+      "type": "string",
+      "section": "METHODS"
+    },
+    {
+      "name": "NGS",
+      "user": "Given the following Title, text and Pathogen of a scientific paper, determine if the Methode used to Identify the Pathogen is part of next generation sequencing (NGS). Return the answer in the exact format: {NGS: 1} if NGS was used or {NGS: 0} if it was not used. \n Title: <title> \n Text: <text> \n Pathogen: <pathogen> \n Respond only in the dictionary format with no explanation. Answer:",
+      "type": "bool",
+      "section": "METHODS"
+    },
+    {
+      "name": "Summary",
+      "user": "Given the following Title, text Pathogen and Disease of a scientific paper, summarize the findings of the Relationship of the Pathogen and Disease in the Paper. Return the answer in the exact format: {Summary: “text”}. \n Title: <title> \n Text: <text> \n Pathogen: <pathogen> \n Disease: <disease> \n You are required to find the Methode based solely on the given title and abstract. Do not use any external knowledge or assumptions beyond the text provided. \n Your decision must be strictly based on the information within the title and abstract. Respond only in the dictionary format with no explanation. The Summary should be at most 50 Words. Answer:",
+      "type": "generation",
+      "section": "RESULTS,CONCL"
+    },
+    {
+      "name": "Symptoms",
+      "user": "Given the following Title, text Pathogen and Disease of a scientific paper, extract the Symptomss which are mentioned in the context of the Disease and Pathogen Relation.Only include Symptoms which refer to mental and physical complains. Return the answer in the exact format: {Symptoms: []}. Inside [] list the found synonyms. \n Title: <title> \n Text: <text>\n Pathogen: <pathogen> \n Disease: <disease> \n You are required to find the Methode based solely on the given title and abstract. Do not use any external knowledge or assumptions beyond the text provided. \n Your decision must be strictly based on the information within the title and abstract. Respond only in the dictionary format with no explanation. Answer:",
+      "type": "list",
+      "section": "RESULTS,CONCL"
+    },
+    {
+      "name": "Relation Type",
+      "user": "Given the following Title, text Pathogen and Disease of a scientific paper, determine the relation Status of the Pathogen and Disease. Return the answer in the exact format: {Type: answer}. Use 'PcD' if the Pathogen causes the Disease, 'DcP' if the Disease causes or changes the Pathogen, 'PhD' if the Pathogen hinders the Disease, 'DhP' if the Disease hinders the Pathogen and 'NR' if the text concludes no relation between Pathogen and Disease. \n Title: <title> \n Text: <text>\n Pathogen: <pathogen> \n Disease: <disease> \n You are required to find the Methode based solely on the given title and abstract. Do not use any external knowledge or assumptions beyond the text provided. \n Your decision must be strictly based on the information within the title and abstract. Respond only in the dictionary format with no explanation. Answer:",
+      "type": "values",
+      "values": "PcD, DcP, PhD, Dhc, NR]",
+      "section": "RESULTS,CONCL"
+    }
+  ]
+}
+

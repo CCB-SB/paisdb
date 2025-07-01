@@ -1,0 +1,18 @@
+name: dp
+channels:
+    - conda-forge
+    - bioconda
+    - r
+    - defaults
+dependencies:
+    - bioconda::pronto==2.5.5
+    - conda-forge::tqdm==4.66.1
+    - conda-forge::pip==23.3.2
+    - conda-forge::gcc==13.2.0
+    - conda-forge::rapidfuzz==3.6.1
+    - conda-forge::openpyxl==3.1.2
+    - conda-forge::nltk==3.8.1
+    - conda-forge::pandas
+    - conda-forge::python
+    - pip:
+        - https://github.com/etetoolkit/ete/archive/ete4.zip

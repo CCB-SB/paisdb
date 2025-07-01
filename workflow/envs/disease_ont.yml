@@ -1,0 +1,14 @@
+name: do
+channels:
+    - conda-forge
+    - bioconda
+    - r
+    - defaults
+dependencies:
+    - conda-forge::numpy==1.26.3
+    - conda-forge::pandas==2.2.0
+    - conda-forge::pyarrow==15.0.0 # pandas dependency
+    - conda-forge::rapidfuzz==3.5.2
+    - bioconda::pronto==2.5.5
+    - nltk==3.8.1
+    - conda-forge::tqdm==4.66.1
