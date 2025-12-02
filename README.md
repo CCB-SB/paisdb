@@ -1,4 +1,4 @@
-# PAISDB Pipeline Documentation
+# Branch containing the testing for the information retrieval
 
 ## Overview
 
