@@ -46,8 +46,7 @@ This is the code for the Bachelor thesis "Literature Preprocessing and Informati
 ## References
 
 - For technical details on each rule, see the corresponding `.smk` files in [`workflow/rules/`](workflow/rules/).
-- For technical details on each algorithm, see the corresponding function in the scripts in - **Changing Prompts:** Modify the functions in [`workflow/scripts/utils/`](workflow/scripts/utils/).
-
+- For technical details on each algorithm, see the corresponding function in the scripts in [`workflow/scripts/utils/LLM_based_extraction_zero_shot.py`](workflow/scripts/utils/LLM_based_extraction_zero_shot.py)
 
 ---
 
