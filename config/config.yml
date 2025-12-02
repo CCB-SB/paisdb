@@ -1,0 +1,42 @@
+###############################################################################
+## General information
+###############################################################################
+
+cores: 10
+api_req: 10
+gpu_par: 1
+
+###############################################################################
+## Source Paths
+###############################################################################
+
+test_set: "../source/test_data_refined.csv"
+relationship_set: "../source/relationship_detection_source_2.csv"
+
+methods: "../source/methods.txt"
+quick_umls: "../.cache/data_indexed" # needs to be downloaded from https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html # Requires a licence
+semtypes_symptoms: "../source/semtypes_symptoms.txt"
+semtypes_anatomy: "../source/semtypes_anatomy.txt"
+semtypes_cohort: "../source/semtypes_cohort.txt"
+post_symptoms: "../source/post_symptoms.txt"
+post_adjectives: "../source/post_adjectives.txt"
+cohort_names: "../source/cohort_names.txt"
+
+###############################################################################
+## Used LLM model
+###############################################################################
+# select which huggingface model to use (included here are the models used in the thesis)
+
+#llm_model: "mistralai/Mistral-Small-Instruct-2409"
+llm_model: "BioMistral/BioMistral-7B"
+
+# add here all llm_models used for evaluation
+llm_models: ["mistralai/Mistral-Small-Instruct-2409", "BioMistral/BioMistral-7B"]
+
+
+###############################################################################
+## Global Parameter
+###############################################################################
+
+# possible values are all positive integer and -1 for no limitation in the distance
+distance: "100,200,400,800"

@@ -1,0 +1,42 @@
+##################################################
+# Config
+##################################################
+configfile: "../config/config.yml"
+
+##################################################
+# Run mode
+##################################################
+
+mode = 'LLM'
+# mode = 'non-LLM'
+
+##################################################
+# Rule includes
+##################################################
+include: "rules/anatomy.smk"
+include: "rules/cohort.smk"
+include: "rules/pathogen_validation.smk"
+include: "rules/relationship_detection.smk"
+include: "rules/strains.smk"
+include: "rules/symptoms.smk"
+include: "rules/plots.smk"
+include: "rules/tabledata.smk"
+
+##################################################
+# ALL rule
+##################################################
+
+# starts LLM testing pipeline
+if mode == 'LLM':
+  rule all:
+    input:
+      expand("../results/{dir}/{model}.csv",dir=["anatomy", "cohort", "pathogen_validation", "strain",
+                                                 "symptoms"],model=config['llm_model'])
+
+# starts non-LLM testing pipeline, requires LLM pipeline run
+if mode == 'non-LLM':
+  rule all:
+    input:
+      expand("../results/plots/{png}_by_set.png", png=["anatomy", "cohort", "pathogen_validation", "strain", "symptoms", "relationship_detection", "relationship_detection_synonyms"]),
+      expand("../results/tabledata/{txt}.txt", txt=["anatomy", "cohort", "pathogen_validation", "relationship_detection","relationship_detection_synonyms", "strain", "symptoms"]),
+

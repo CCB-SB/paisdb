@@ -1,0 +1,17 @@
+participants
+participant
+subjects
+subject
+patients
+patient
+controls
+control
+cohort
+cohort members
+cases
+respondents
+respondent
+individuals
+individual
+intervention group 
+control group

@@ -1,0 +1,20 @@
+#immunology-based method
+(Enzyme immunoassay|EIA)
+(enzyme-linked fluorescent assay|ELAF)
+(enzyme-linked immunosorbent assay|ELISA)
+flow injection immunoassay
+latex agglutination assay
+#polymerase chain reaction method
+(polymerase chain reaction|PCR)
+(reverse transcript polymerase chain reaction|RT-PCR)
+(real-time polymerase chain reaction|qPCR)
+multiplexe polymerease chain reaction
+nested polymerase chain reaction
+(next generation sequencing|NGS)
+#metabolic techniques
+spectroscopy technology
+(surface enhanced raman scattering|SERS)
+(surface plasmon resonance|SPR)
+Mass spectrometry
+flow cytometry
+colorimetry
