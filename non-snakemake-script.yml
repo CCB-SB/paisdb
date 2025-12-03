@@ -7,13 +7,14 @@ channels:
   - pytorch
 dependencies:
   - python=3.11
-  - numpy
-  - pandas
+  - numpy==2.0.1
+  - pandas==2.3.1
   - cmake
   - pybind11
   - nmslib
   - conda-forge::rapidfuzz==3.5.2
-  - matplotlib
+  - matplotlib==3.10.0
+  - networkx==3.4.2
   - pip
   - pip:
       - scispacy==0.5.4
